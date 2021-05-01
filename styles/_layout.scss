@@ -28,9 +28,17 @@
 }
 
 .previous-number {
-    font-size: 1.5rem;
+    font-size: 20px;
+
+    @media (min-width: 768px) {
+        font-size: 1.5rem;
+    }
 }
 
 .current-number {
-    font-size: 2.5rem;
+    font-size: 30px;
+
+    @media (min-width: 768px) {
+        font-size: 2.5rem;
+    }
 }
