@@ -1,4 +1,5 @@
 # 🔢 Basic JavaScript Calculator
+![image](https://user-images.githubusercontent.com/39219696/148749905-86ee6cf1-7e74-4c2c-9dbf-6301d448d5da.png)
 
 ## 🧰 Built with
 
