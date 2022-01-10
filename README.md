@@ -1,6 +1,6 @@
-# Basic JavaScript Calculator
+# 🔢 Basic JavaScript Calculator
 
-## Built with
+## 🧰 Built with
 
 - Semantic HTML5 markup
 - CSS (Sass & BEM)
@@ -8,10 +8,10 @@
 - CSS Grid
 - ES6
 
-## What I learned
+## ✨ What I learned
 
 I've learnt a lot about the functions used in this project and using Switch Cases to understand what the user is doing to perform the actions in my code!
 
-## Author
+## ✍🏻 Author
 
 - GitHub - [@jadetruexo](https://github.com/jadetruexo/)
