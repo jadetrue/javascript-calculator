@@ -15,4 +15,4 @@ I've learnt a lot about the functions used in this project and using Switch Case
 
 ## ✍🏻 Author
 
-- GitHub - [@jadetruexo](https://github.com/jadetruexo/)
+- GitHub - [@jadetrue](https://github.com/jadetrue/)
